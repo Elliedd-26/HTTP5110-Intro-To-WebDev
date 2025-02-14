@@ -1,4 +1,14 @@
-# HTTP5110-Intro-To-WebDev
-🏷️Course Name: Introduction to Web Development
+# Introduction to Web Development
 
-🏷️Course Description: An introductory course that provides an overview of web development concepts, tools, and platforms. Students will explore the basics of website creation, including design principles, development methodologies, and the use of various web technologies to enhance user experience.
+This repository contains coursework, projects, and assignments for the **Introduction to Web Development** course at Humber College. The course introduces students to the fundamentals of web technologies.
+
+## 📌 Course Topics
+- HTML & CSS Basics
+- JavaScript Fundamentals
+- Introduction to Web Hosting
+- SEO & Web Performance
+
+🔗 **Course Link**: [Humber Web Development](https://humber.ca)
+
+## 🖼️ logo
+<img src="https://github.com/Elliedd-26/HTTP5110-Intro-To-WebDev/blob/main/git.png" alt="Intro to Web Dev" width="100" height="100">
